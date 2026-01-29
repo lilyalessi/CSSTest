@@ -1,0 +1,39 @@
+body{
+    background-color: #FC94A5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.header{
+    color: #FFD8DF;
+    border: 4px dotted;
+    border-color: #F0FFDF;
+    padding: 10px;
+    font-style: oblique;
+}
+
+.subheading{
+    color: #A8DF8E;
+    border: 4px double;
+    padding: 5px;
+    border-color: #F0FFDF;
+    border-width: 4px;
+    border-radius: 50px;
+}
+
+.image{
+    width: 300px;
+    border: 8px;
+    border-color: #FFD8DF;
+    border-style: solid;
+    border-radius: 100px;
+}
+
+p{
+    color:#FFD8DF;
+    font-style: italic;
+    font-size: 20pxl
+}
+
+
+
